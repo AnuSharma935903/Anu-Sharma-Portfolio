@@ -1,0 +1,16 @@
+{
+  "name": "animated-portfolio-website",
+  "version": "1.0.0",
+  "description": "Smooth scroll-based video frame sequence animation",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.35.4"
+  }
+}
